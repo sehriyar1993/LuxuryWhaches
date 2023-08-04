@@ -1,0 +1,14 @@
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\bin\Debug\net6.0\LuxuryWhaches.EntityLayer.deps.json
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\bin\Debug\net6.0\LuxuryWhaches.EntityLayer.runtimeconfig.json
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\bin\Debug\net6.0\LuxuryWhaches.EntityLayer.dll
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\bin\Debug\net6.0\LuxuryWhaches.EntityLayer.pdb
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\LuxuryWhaches.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\LuxuryWhaches.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\LuxuryWhaches.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\LuxuryWhaches.EntityLayer.AssemblyInfo.cs
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\LuxuryWhaches.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\LuxuryWhaches.EntityLayer.dll
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\refint\LuxuryWhaches.EntityLayer.dll
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\LuxuryWhaches.EntityLayer.pdb
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\LuxuryWhaches.EntityLayer.genruntimeconfig.cache
+C:\Users\Hp Pavilion Gaming\Desktop\proyektlerim\LuxuryWhaches.EntityLayer\obj\Debug\net6.0\ref\LuxuryWhaches.EntityLayer.dll

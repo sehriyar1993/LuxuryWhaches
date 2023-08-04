@@ -1,0 +1,893 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LuxsuryWhatches.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LuxsuryWhatches.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\eror\\css\\style.css",
+      "PackagePath": "staticwebassets\\eror\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\eror\\images\\board.png",
+      "PackagePath": "staticwebassets\\eror\\images\\board.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\eror\\index.html",
+      "PackagePath": "staticwebassets\\eror\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\eror\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\eror\\w3layouts-License.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\account.html",
+      "PackagePath": "staticwebassets\\web\\account.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\checkout.html",
+      "PackagePath": "staticwebassets\\web\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\contact.html",
+      "PackagePath": "staticwebassets\\web\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\web\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\css\\memenu.css",
+      "PackagePath": "staticwebassets\\web\\css\\memenu.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\fonts\\BreeSerif-Regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\BreeSerif-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\fonts\\Lato-Regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\Lato-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\fonts\\Lora-Regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\Lora-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\fonts\\Muli-Regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\Muli-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\fonts\\Philosopher-Regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\Philosopher-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\11.png",
+      "PackagePath": "staticwebassets\\web\\images\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\abt-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\abt-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\abt-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\abt-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\abt-3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\abt-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\web\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\bnr-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\bnr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\bnr-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\bnr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\bnr-3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\bnr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\c-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\c-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\c-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\c-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\c-3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\c-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\cart-1.png",
+      "PackagePath": "staticwebassets\\web\\images\\cart-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\cart-2.png",
+      "PackagePath": "staticwebassets\\web\\images\\cart-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\cart-3.png",
+      "PackagePath": "staticwebassets\\web\\images\\cart-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\close.png",
+      "PackagePath": "staticwebassets\\web\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\crossword.png",
+      "PackagePath": "staticwebassets\\web\\images\\crossword.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\p-1.png",
+      "PackagePath": "staticwebassets\\web\\images\\p-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\p-2.png",
+      "PackagePath": "staticwebassets\\web\\images\\p-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\p-3.png",
+      "PackagePath": "staticwebassets\\web\\images\\p-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\p-4.png",
+      "PackagePath": "staticwebassets\\web\\images\\p-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\p-5.png",
+      "PackagePath": "staticwebassets\\web\\images\\p-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\p-6.png",
+      "PackagePath": "staticwebassets\\web\\images\\p-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\p-7.png",
+      "PackagePath": "staticwebassets\\web\\images\\p-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\p-8.png",
+      "PackagePath": "staticwebassets\\web\\images\\p-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\pr-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\pr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\pr-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\pr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\s-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\s-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\s-3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\s-icons.png",
+      "PackagePath": "staticwebassets\\web\\images\\s-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\search.png",
+      "PackagePath": "staticwebassets\\web\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\star.png",
+      "PackagePath": "staticwebassets\\web\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\images\\tick.png",
+      "PackagePath": "staticwebassets\\web\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\web\\js\\imagezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\js\\jquery.easydropdown.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.easydropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\js\\memenu.js",
+      "PackagePath": "staticwebassets\\web\\js\\memenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\js\\simpleCart.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\simpleCart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\products.html",
+      "PackagePath": "staticwebassets\\web\\products.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\register.html",
+      "PackagePath": "staticwebassets\\web\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\single.html",
+      "PackagePath": "staticwebassets\\web\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\typo.html",
+      "PackagePath": "staticwebassets\\web\\typo.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\web\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-License.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\404.html",
+      "PackagePath": "staticwebassets\\webadmin\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\500.html",
+      "PackagePath": "staticwebassets\\webadmin\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\blank-page.html",
+      "PackagePath": "staticwebassets\\webadmin\\blank-page.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\buttons.html",
+      "PackagePath": "staticwebassets\\webadmin\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\charts.html",
+      "PackagePath": "staticwebassets\\webadmin\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\compose.html",
+      "PackagePath": "staticwebassets\\webadmin\\compose.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\SidebarNav.min.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\SidebarNav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\custom.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\export.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\export.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\graph.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\graph.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\jqcandlestick.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\jqcandlestick.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\monthly.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\monthly.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\css\\style.css",
+      "PackagePath": "staticwebassets\\webadmin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\webadmin\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\forms.html",
+      "PackagePath": "staticwebassets\\webadmin\\forms.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\general.html",
+      "PackagePath": "staticwebassets\\webadmin\\general.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\grids.html",
+      "PackagePath": "staticwebassets\\webadmin\\grids.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\icons.html",
+      "PackagePath": "staticwebassets\\webadmin\\icons.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\a.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\a.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\i1.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\i1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\i2.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\i2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\i3.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\i3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\i4.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\i4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\img1.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\img1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\lock.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\mail.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\slider1.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\slider2.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\slider3.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\slider4.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\slider5.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\slider6.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\slider6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\slider7.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\slider7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\tick.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\user.png",
+      "PackagePath": "staticwebassets\\webadmin\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\images\\weather.jpg",
+      "PackagePath": "staticwebassets\\webadmin\\images\\weather.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\inbox.html",
+      "PackagePath": "staticwebassets\\webadmin\\inbox.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\index.html",
+      "PackagePath": "staticwebassets\\webadmin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\SidebarNav.min.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\SidebarNav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\SimpleChart.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\SimpleChart.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\amcharts.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\chartinator.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\chartinator.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\classie.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\custom.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\export.min.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\export.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\images\\dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets\\webadmin\\js\\images\\dragIconRoundBig.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\images\\lens.svg",
+      "PackagePath": "staticwebassets\\webadmin\\js\\images\\lens.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\index.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\index1.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\index1.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\index2.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\index2.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\jquery.jqcandlestick.min.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\jquery.jqcandlestick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\light.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\modernizr.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\monthly.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\monthly.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\pie-chart.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\pie-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\serial.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\utils.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\js\\validator.min.js",
+      "PackagePath": "staticwebassets\\webadmin\\js\\validator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\login.html",
+      "PackagePath": "staticwebassets\\webadmin\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\media.html",
+      "PackagePath": "staticwebassets\\webadmin\\media.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\signup.html",
+      "PackagePath": "staticwebassets\\webadmin\\signup.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\tables.html",
+      "PackagePath": "staticwebassets\\webadmin\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\typography.html",
+      "PackagePath": "staticwebassets\\webadmin\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\validation.html",
+      "PackagePath": "staticwebassets\\webadmin\\validation.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\webadmin\\w3layouts-License.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp Pavilion Gaming\\Desktop\\proyektlerim\\LuxsuryWhatches\\wwwroot\\webadmin\\widgets.html",
+      "PackagePath": "staticwebassets\\webadmin\\widgets.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LuxsuryWhatches.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LuxsuryWhatches.props",
+      "PackagePath": "build\\LuxsuryWhatches.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LuxsuryWhatches.props",
+      "PackagePath": "buildMultiTargeting\\LuxsuryWhatches.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LuxsuryWhatches.props",
+      "PackagePath": "buildTransitive\\LuxsuryWhatches.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

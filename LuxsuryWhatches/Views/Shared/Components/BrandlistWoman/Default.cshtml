@@ -1,0 +1,7 @@
+﻿@using LuxuryWhaches.EntityLayer.Concreate;
+@model List<Brand>
+@foreach (var x in Model.Where(x => x.BrandStatus == true))
+{
+    <li><a href="/Default/GetProductForBrandWoman/@x.BrandID/">@x.BrandName</a></li>
+
+}

@@ -1,0 +1,52 @@
+﻿@using LuxuryWhaches.EntityLayer.Concreate;
+@model Contact
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<div class="contact">
+	<div class="container">
+		<div class="contact-top heading">
+			<h2>Bizimlə Əlaqə</h2>
+		</div>
+		<div class="contact-text">
+			<div class="col-md-3 contact-left">
+				<div class="address">
+					<h5>Ünvanımız</h5>
+					<p>
+						Luxury Whaches,
+						<span>Yasaamal Xarici Dairəvi Yolu,</span>
+						Tərəqqi Küçəsi 39.
+					</p>
+				</div>
+				<div class="address">
+					<h5>Əlaqə Məlumatları</h5>
+					<p>
+						Tel:+994 804 80 04,
+						<span>Fax:+994 804 80 04</span>
+						Email: <a href="mailto:sehrihaciyev@gmail.com">sehrihaciyev@gmail.com</a>
+					</p>
+				</div>
+			</div>
+			<div class="col-md-9 contact-right">
+				<form method="post">
+					<input type="text" placeholder="Adınız" asp-for="ContactNaame">
+					<input type="text" placeholder="Mobil Nömrəniz" asp-for="ContactPhone">
+					<input type="text" placeholder="Mail" asp-for="ContactSubject">
+					<textarea placeholder="Mesajınız" asp-for="ContactBody" required=""></textarea>
+					<div class="submit-btn">
+						<input type="submit" value="Göndər">
+					</div>
+				</form>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+<!--contact-end-->
+<!--map-start-->
+<div class="map">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.5971986406284!2d49.81447597594345!3d40.37345497144656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307dc1caf3ffff%3A0x9209dad5cf4714fe!2zSMO8c2V5biBDYXZpZCBCYcSfxLE!5e0!3m2!1saz!2saz!4v1688921831808!5m2!1saz!2saz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+

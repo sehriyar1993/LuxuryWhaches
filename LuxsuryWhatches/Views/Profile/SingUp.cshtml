@@ -1,0 +1,41 @@
+﻿@model AppUserRegisterViewModel
+@{
+    ViewData["Title"] = "SingUp";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+
+
+<div class="register">
+	<div class="container">
+		<div class="register-top heading">
+			<h2>Qeydiyyat Səhifəsi</h2>
+		</div>
+		<form method="post" class="register-main">
+			<div class="col-md-6 account-left">
+				<input placeholder="Adınız" type="text" tabindex="1" required="" asp-for="Name">
+				<input placeholder="Soyadınız" type="text" tabindex="2" required asp-for="Surname">
+				<input placeholder="Mail Adresiniz" asp-for=Email type="text" tabindex="3" required="">
+				<input placeholder="Şəkliniz" asp-for=ImageUrl type="text" tabindex="3" required="">
+				<input placeholder="İstifadəçi Adı" type="text" tabindex="3" required="" asp-for="Username">
+				<ul>
+					@*<li><label class="radio left"><input type="radio" name="radio" checked=""><i></i>Male</label></li>
+					<li><label class="radio"><input type="radio" name="radio"><i></i>Female</label></li>*@
+					<div class="clearfix"></div>
+				</ul>
+			</div>
+			<div class="col-md-6 account-left">
+				<input placeholder="Şəhər" asp-for=City type="text" tabindex="4" required="">
+				<input placeholder="Ünvan" asp-for=Adress type="text" tabindex="4" required="">
+				<input placeholder="Haqqınızda" asp-for=About type="text" tabindex="4" required="">
+				<input placeholder="Şifrəniz" type="password" tabindex="4" required="" asp-for="Password">
+				<input placeholder="Təkrar Şifrəniz" type="password" tabindex="4" required="" asp-for="RePassword">
+			</div>
+			<div class="clearfix"></div>
+			<div class="address submit">
+				<input type="submit" value="Təsdiqlə">
+			</div>
+		</form>
+		
+	</div>
+</div>

@@ -1,0 +1,122 @@
+﻿@model AppUserRegisterViewModel
+@{
+    ViewData["Title"] = "MyAccount";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<div class="single contact">
+	<div class="container">
+		<div class="single-main">
+			<div class="col-md-9 single-main-left">
+				<div class="sngl-top">
+					<div class="col-md-5 single-top-left">
+						<div class="flexslider">
+							<ul class="slides">
+								<li data-thumb="@Model.ImageUrl">
+									<div class="thumb-image"> <img src="@Model.ImageUrl" data-imagezoom="true" class="img-responsive" alt="" /> </div>
+								</li>
+							
+							
+							</ul>
+						</div>
+						<!-- FlexSlider -->
+						<script src="~/web/js/imagezoom.js"></script>
+					@*	<script defer src="~/web/js/jquery.flexslider.js"></script>
+						<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+
+						<script>
+							// Can also be used with $(document).ready()
+							$(window).load(function () {
+								$('.flexslider').flexslider({
+									animation: "slide",
+									controlNav: "thumbnails"
+								});
+							});
+						</script>*@
+					</div>
+					<div class="col-md-7 single-top-right">
+						<div class="single-para simpleCart_shelfItem">
+							<h2>@Model.Name @Model.Surname</h2>
+							<div class="star-on">
+								
+								<div class="review">
+									<a href="#"> @Model.Email </a>
+
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+
+							<h5 class="item_price">@Model.Username</h5>
+                           <p>@Model.About</p>		
+						 
+							<ul class="tag-men">
+								<li>
+									<span>Şəhər</span>
+									<span class="women1">: @Model.City</span>
+								</li>
+								<li>
+									<span>Adress</span>
+									<span class="women1">: @Model.Adress</span>
+								</li>
+							</ul>
+
+						</div>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="register">
+					<div class="container">
+						<div class="register-top heading">
+						
+						</div>
+						<form method="post" class="register-main">
+							<div class="col-md-6 account-left">
+								<input placeholder="Adınız" type="text" tabindex="1" required="" asp-for="Name">
+								<input placeholder="Soyadınız" type="text" tabindex="2" required asp-for="Surname">
+								<input placeholder="Mail Adresiniz" asp-for=Email type="text" tabindex="3" required="">
+								<input placeholder="İstifadəçi Adı" type="text" tabindex="3" required="" asp-for="Username">
+								<ul>
+									@*<li><label class="radio left"><input type="radio" name="radio" checked=""><i></i>Male</label></li>
+									<li><label class="radio"><input type="radio" name="radio"><i></i>Female</label></li>*@
+									<div class="clearfix"></div>
+								</ul>
+							</div>
+							<div class="col-md-6 account-left">
+								<input placeholder="Şəhər" asp-for=City type="text" tabindex="4" required="">
+								<input placeholder="Ünvan" asp-for=Adress type="text" tabindex="4" required="">
+								<input placeholder="Haqqınızda" asp-for=About type="text" tabindex="4" required="">
+								<input placeholder="Şəkliniz" asp-for=ImageUrl type="text" tabindex="4" required="">
+
+							</div>
+							<div class="clearfix"></div>
+							<div class="address submit">
+								<input type="submit" value="Təsdiqlə">
+							</div>
+						</form>
+
+					</div>
+				</div>
+
+			</div>
+			<div class="col-md-3 single-right">
+				<div class="w_sidebar">
+					<section class="sky-form">
+						<h4>Məlumatlarım</h4>
+						<div class="row1 scroll-pane">
+						
+							<div class="col col-4">
+								<li><a href="/Order/MyOldOrder/">Keçmiş Sifarişlərim</a></li>
+								<li><a href="/Order/MyNeorder/">Yeni Sifarişlər</a></li>
+								<li><a href="/Order/ApprovelOrder/">Təsdiqlənmiş Sifarişlər</a></li>
+							</div>
+						</div>
+					</section>
+				
+				</div>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+
+

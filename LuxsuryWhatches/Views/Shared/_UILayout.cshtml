@@ -1,0 +1,254 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Luxury Watches</title>
+	<link href="~/web/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<!--jQuery(necessary for Bootstrap's JavaScript plugins)-->
+	<script src="~/web/js/jquery-1.11.0.min.js"></script>
+	<!--Custom-Theme-files-->
+	<!--theme-style-->
+	<link href="~/web/css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<!--//theme-style-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Luxury Watches Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+	<!--start-menu-->
+	<script src="~/web/js/simpleCart.min.js"> </script>
+	<link href="~/web/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
+	<script type="text/javascript" src="~/web/js/memenu.js"></script>
+	<script>$(document).ready(function(){$(".memenu").memenu();});</script>
+	<!--dropdown-->
+	<script src="~/web/js/jquery.easydropdown.js"></script>
+</head>
+<body>
+	<!--top-header-->
+	<div class="top-header">
+		<div class="container">
+			<div class="top-header-main">
+				<div class="col-md-6 top-header-left">
+					<div class="drop">
+						@if (!User.Identity.IsAuthenticated)
+						{
+							<div class="box">
+								<a href="/Profile/SingIn/">
+
+									<img src="https://i.hizliresim.com/3i1sw06.png" alt="" style="width:25px; height:25px;" />
+								</a>
+							</div>
+						}
+						else
+						{
+							<div class="box">
+								<a href="/Profile/Singout/">
+
+									<img src="https://i.hizliresim.com/5k40eso.png" alt="" style="width:25px; height:25px;" />
+								</a>
+							</div>
+						}
+
+						<div class="clearfix"></div>
+					</div>
+				</div>
+				<div class="col-md-6 top-header-left">
+					<div class="cart box_1">
+						<a href="/Order/OrderBag/">
+							
+							<img src="~/web/images/cart-1.png" alt="" />
+						</a>
+						<p><a href="javascript:;" class="simpleCart_empty">Səbət</a></p>
+						<div class="clearfix"> </div>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+	<!--top-header-->
+	<!--start-logo-->
+	<div class="logo">
+		<a href="index.html"><h1>Luxury Watches</h1></a>
+	</div>
+	<!--start-logo-->
+	<!--bottom-header-->
+	<div class="header-bottom">
+		<div class="container">
+			<div class="header">
+				<div class="col-md-9 header-left">
+					<div class="top-nav">
+						<ul class="memenu skyblue">
+							<li class="active"><a href="/Default/Index/">Ana Səhifə</a></li>
+							<li class="grid">
+								<a href="#">Kişi</a>
+								<div class="mepanel">
+									<div class="row">
+										<div class="col1 me-one">
+											<h4>Kateqoriyalar</h4>
+											<ul>
+												<li><a href="/Default/ProductMen/">Hamısı</a></li>
+												@await Component.InvokeAsync("CategoryListMen")
+											</ul>
+										</div>
+										<div class="col1 me-one">
+											<h4>Brendlər</h4>
+											<ul>
+												@await Component.InvokeAsync("BrandListMan")
+											
+											</ul>
+										</div>
+										@*<div class="col1 me-one">
+											<h4>Bütün Məhsullarımız</h4>
+											<ul>
+												<li><a href="products.html">499 Store</a></li>
+												<li><a href="products.html">Fastrack</a></li>
+												<li><a href="products.html">Casio</a></li>
+												<li><a href="products.html">Fossil</a></li>
+												<li><a href="products.html">Maxima</a></li>
+												<li><a href="products.html">Timex</a></li>
+												<li><a href="products.html">TomTom</a></li>
+												<li><a href="products.html">Titan</a></li>
+											</ul>
+										</div>*@
+									</div>
+								</div>
+							</li>
+							<li class="grid">
+								<a href="#">Qadın</a>
+								<div class="mepanel">
+									<div class="row">
+										<div class="col1 me-one">
+											<h4>Shop</h4>
+											<ul>
+												<li><a href="/Default/ProductWomen/">Hamısı</a></li>
+												@await Component.InvokeAsync("CategoryListWoman")
+											</ul>
+										</div>
+										<div class="col1 me-one">
+											<h4>Style Zone</h4>
+											<ul>
+												@await Component.InvokeAsync("BrandlistWoman")
+
+											</ul>
+										</div>
+									@*	<div class="col1 me-one">
+											<h4>Popular Brands</h4>
+											<ul>
+												<li><a href="products.html">499 Store</a></li>
+												<li><a href="products.html">Fastrack</a></li>
+												<li><a href="products.html">Casio</a></li>
+												<li><a href="products.html">Fossil</a></li>
+												<li><a href="products.html">Maxima</a></li>
+												<li><a href="products.html">Timex</a></li>
+												<li><a href="products.html">TomTom</a></li>
+												<li><a href="products.html">Titan</a></li>
+											</ul>
+										</div>*@
+									</div>
+								</div>
+							</li>
+							<li class="grid">
+								<a href="/Default/Product/">Bütün Məhsullar</a>
+							</li>
+						@*	<li class="grid">
+								<a href="typo.html">Haqqımızda</a>
+							</li>*@
+							<li class="grid">
+								<a href="/Contact/Index">Əlaqə</a>
+							</li>
+						</ul>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<form method="post" action="/Default/Product/" class="col-md-3 header-right">
+					<div class="search-bar">
+						<input type="text" value="@ViewData["CurrentFilter"]" name="searchString" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Axtarış';}">
+						<input type="submit" value="">
+					</div>
+				</form>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<!--bottom-header-->
+	<!--start-breadcrumbs-->
+	
+@RenderBody()
+	<div class="information">
+		<div class="container">
+			<div class="infor-top">
+				<div class="col-md-3 infor-left">
+					<h3>Bizi İzləyin</h3>
+					<ul>
+						<li><a href="#"><span class="fb"></span><h6>Facebook</h6></a></li>
+						<li><a href="#"><span class="twit"></span><h6>Twitter</h6></a></li>
+						<li><a href="#"><span class="google"></span><h6>Github</h6></a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 infor-left">
+					<h3>Məlumatlar</h3>
+					<ul>
+						<li><a href="#"><p>Haqqımızda</p></a></li>
+						<li><a href="#"><p>Yeni Gələnlər</p></a></li>
+						<li><a href="#"><p>Mağazamız</p></a></li>
+						<li><a href="contact.html"><p>Bizimlə Əlaqə</p></a></li>
+						<li><a href="#"><p>Ən Çox Satılanlar</p></a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 infor-left">
+					<h3>Mənim Hesabım</h3>
+					<ul>
+						@if (!User.Identity.IsAuthenticated)
+						{
+							<li><a href="/Profile/SingIn/"><p>Giriş</p></a></li>
+						}
+						else
+						{
+							<li><a href="/Profile/MyAccount"><p>Profilim</p></a></li>
+							
+							<li><a href="/Order/OrderBagApproval/"><p>Təsdiqlənmiş Sifarişlər</p></a></li>
+							<li><a href="/Order/OrderBag/"><p>Təsdiq gözləyən Sifarişlər</p></a></li>
+							<li><a href="/Order/OrderBagDedline/"><p>Keçmiş Sifarişlər</p></a></li>
+						}
+						@if(User.IsInRole(role: "Admin"))
+						{
+							<li><a href="/AdminDashboard/Index"><p>Admin Girişi</p></a></li>
+						}
+					</ul>
+				</div>
+				<div class="col-md-3 infor-left">
+					<h3>Mağaza Məlumatları</h3>
+					<h4>
+						Adı,
+						<span>Luxury Whaches,</span>
+						Xarici Daizəvi Yol, Tərəqqi 39.
+					</h4>
+					<h5>+994708048004</h5>
+					<p><a href="mailto:sehrihaciyev@gmail.com">sehrihaciyev@gmail.com</a></p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+	<!--information-end-->
+	<!--footer-starts-->
+	<div class="footer">
+		<div class="container">
+			<div class="footer-top">
+				<div class="col-md-6 footer-left">
+					<form method="post" action="/Contact/NewsLetterSend/">
+						<input type="text" value="Mail Adresiniz" name="NewsLetterMail" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Mail Adresiniz';}">
+						<input type="submit" value="Abunə Olun">
+					</form>
+				</div>
+				<div class="col-md-6 footer-right">
+					<p>© @DateTime.Now.Year | Design by  <a href="http://shahriyarhajiyev.com/" target="_blank">Shahriyar Hajiyev</a> </p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+	<!--footer-end-->
+</body>
+</html>

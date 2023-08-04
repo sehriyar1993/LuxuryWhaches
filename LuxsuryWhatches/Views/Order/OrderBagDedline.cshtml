@@ -1,0 +1,70 @@
+﻿@using LuxuryWhaches.EntityLayer.Concreate;
+@model IEnumerable<Order>
+@{
+    ViewData["Title"] = "OrderBagDedline";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<div class="breadcrumbs">
+	<div class="container">
+		<div class="breadcrumbs-main">
+			<ol class="breadcrumb">
+				<li><a href="/Order/OrderBag/">Təsdiq Gözləyir</a></li>
+				<li><a href="/Order/OrderBagApproval/">Təsdilənmiş</a></li>
+				<li><a href="/Order/OrderBagDedline/">Müddəti Bitmiş</a></li>
+
+			</ol>
+		</div>
+	</div>
+</div>
+<!--end-breadcrumbs-->
+<!--start-ckeckout-->
+<div class="ckeckout">
+	<div class="container">
+		<div class="ckeck-top heading">
+			<h2>Ödəniş</h2>
+		</div>
+		<div class="ckeckout-top">
+			<div class="cart-items">
+				<h3>Alış-Veriş Səbəti</h3>
+
+				<div class="in-check">
+					<ul class="unit">
+						<li><span>Məhsul</span></li>
+						<li><span>Məhsulun Adı Və Qiyməti</span></li>
+						<li><span>Statusu</span></li>
+						<li><span>Sil</span></li>
+						<li> </li>
+						<div class="clearfix"> </div>
+					</ul>
+					@foreach (var x in Model)
+					{
+						<ul class="cart-header">
+							<div class="close1"> </div>
+							<li class="ring-in">
+								<a href="single.html"><img src="@x.ProductImage1" class="img-responsive" alt="" style="width:45px;height:45px;"></a>
+							</li>
+							<li>
+								<span>@x.ProductName </span>
+								<p>@x.DiscountedPrice</p>
+							</li>
+							<li><span class="cost">@x.Status</span></li>
+							<li>
+								<a href="/Order/OrderDelete/@x.OrderID">Sil</a>
+								@*<p>Delivered in 2-3 business days</p>*@
+							</li>
+							<div class="clearfix"> </div>
+						</ul>
+
+					}
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+

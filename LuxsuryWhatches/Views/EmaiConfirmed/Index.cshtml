@@ -1,0 +1,27 @@
+﻿@model ComfirmMailViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<div class="account">
+	<div class="container">
+		<div class="account-top heading">
+			<h2>Email Qeydiyyat Səhifəsi</h2>
+		</div>
+		<div class="account-main">
+			<div class="col-md-6 account-left">
+				<h3>@ViewBag.Value</h3>
+				<form method="post" class="account-bottom" >
+					<input placeholder="@ViewBag.Value" type="text" tabindex="3"  value="@ViewBag.Value" asp-for="Mail">
+					<input placeholder="Mailinizə gələn 6 rəqəmli kodu daxil edin..." type="text" required="" asp-for="ComfirmCode">
+					<div class="address">
+						<input type="submit" value="Təsdiqlə">
+					</div>
+				</form>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+
